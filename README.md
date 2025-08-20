@@ -1,6 +1,6 @@
 # 📊 SuperPay Backoffice Dashboard
 
-A React-based frontend for SuperPay’s dashboard, enabling dynamic reporting and transaction visualizations. Developed during my internship at SuperPay, this interface presents real-time insights through interactive charts and filters.
+A React-based frontend for SuperPay’s dashboard, enabling dynamic reporting and transaction visualizations. Developed during my internship at SuperPay, this interface delivers real-time insights through interactive charts and filters.
 
 ## How it looks
 
